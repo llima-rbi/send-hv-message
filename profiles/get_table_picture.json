@@ -1,0 +1,12 @@
+{
+  "address": "127.0.0.1",
+  "type": "TABLEMGR",
+  "service": "TABLEMGR",
+  "token": "TK_CMP_MESSAGE",
+  "timeout": -1,
+  "format": "param",
+  "is_base_64": 0,
+  "replace_0": 1,
+  "message_input": "TABLE_PICTURE\\01\\0",
+  "fetch_stores": true
+}

@@ -1,0 +1,12 @@
+{
+  "address": "127.0.0.1",
+  "type": "ORDERMGR",
+  "service": "ORDERMGR1",
+  "token": "TK_SLCTRL_OMGR_ORDERPICT",
+  "timeout": -1,
+  "format": "param",
+  "is_base_64": 0,
+  "replace_0": 1,
+  "message_input": "1",
+  "fetch_stores": true
+}

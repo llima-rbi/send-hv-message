@@ -1,0 +1,12 @@
+{
+  "address": "127.0.0.1",
+  "type": "hypervisor",
+  "service": "hypervisor",
+  "token": "TK_CMP_TERM_NOW",
+  "timeout": -1,
+  "format": "param",
+  "is_base_64": 0,
+  "replace_0": 1,
+  "message_input": "",
+  "fetch_stores": true
+}
